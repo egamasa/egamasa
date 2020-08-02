@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=egamasa&count_private=true&theme=merko&show_icons=true" />
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egamasa&theme=prussian&layout=compact" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=egamasa&count_private=true&theme=merko&show_icons=true" style="max-width:50%;"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egamasa&theme=prussian&layout=compact" style="max-width:50%;"/>
 
 <!--
 **egamasa/egamasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
