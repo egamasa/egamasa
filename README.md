@@ -12,7 +12,7 @@ These cards are powered by https://github.com/anuraghazra/github-readme-stats
   - 昭和バスからつ号・いまり号の福岡エリア発車時刻をカウントダウンするシンプルなWebアプリ
 - 通信の最適化チェッカー  
   http://optimize.orangeliner.net
-  モバイルデータ通信での画像データ非可逆圧縮をチェック
+  - モバイルデータ通信での画像データ非可逆圧縮をチェック
 
 ### Blog
 orangeliner.net BLOG  
