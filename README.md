@@ -1,6 +1,22 @@
 ### Hi there 👋
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=egamasa&count_private=true&theme=merko&show_icons=true" style="max-width:50%;"/>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=egamasa&theme=prussian&layout=compact" style="max-width:50%;"/>
+![egamasa's github stats](https://github-readme-stats.vercel.app/api?username=egamasa&count_private=true&theme=prussian&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=egamasa&theme=prussian)  
+These cards are powered by https://github.com/anuraghazra/github-readme-stats
+
+### Web Apps
+- ｱﾂﾓﾘｨｯ!!!! ボタン  
+  https://atsumori.orangeliner.net
+  - 失礼しましたｱﾂﾓﾘと出てしまいました
+- からつ・いまりタイマー  
+  https://bustimer.orangeliner.net
+  - 昭和バスからつ号・いまり号の福岡エリア発車時刻をカウントダウンするシンプルなWebアプリ
+- 通信の最適化チェッカー  
+  http://optimize.orangeliner.net
+  モバイルデータ通信での画像データ非可逆圧縮をチェック
+
+### Blog
+orangeliner.net BLOG  
+https://blog.orangeliner.net
 
 <!--
 **egamasa/egamasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
