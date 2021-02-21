@@ -18,6 +18,11 @@ These cards are powered by https://github.com/anuraghazra/github-readme-stats
 orangeliner.net BLOG  
 https://blog.orangeliner.net
 
+### 🌱 I’m currently learning
+- Ruby
+- Python
+- Go
+
 <!--
 **egamasa/egamasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
