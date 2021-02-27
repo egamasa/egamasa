@@ -18,6 +18,7 @@ These cards are powered by https://github.com/anuraghazra/github-readme-stats
 orangeliner.net BLOG  
 https://blog.orangeliner.net
   - Built by Middleman (Ruby framework)
+  - Full-scratch CSS
 
 ### Website
 orangeliner.net
