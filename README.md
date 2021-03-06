@@ -28,6 +28,8 @@ https://orangeliner.net
 
 ### 🌱 I’m currently learning
 - Ruby
+  - Ruby on Rails
+  - Middleman
 - Python
 - Go
 
