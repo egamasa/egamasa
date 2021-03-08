@@ -33,8 +33,6 @@ https://orangeliner.net
 - Python
 - Go
 
-### 🤔 I’m looking for work...
-
 <!--
 **egamasa/egamasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
