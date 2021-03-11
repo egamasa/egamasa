@@ -23,8 +23,6 @@ https://blog.orangeliner.net
 ### Website
 orangeliner.net  
 https://orangeliner.net
-  - Built by Middleman (Ruby framework)
-  - Full-scratch CSS
 
 ### 🌱 I’m currently learning
 - Ruby
