@@ -23,9 +23,12 @@ orangeliner.net
 https://orangeliner.net
 
 ### 🌱 I’m currently learning
-- Ruby
-- Python
-- Go
+- Languages
+  - Ruby
+  - Python
+  - Go
+- Cloud
+  - GCP
 
 <!--
 **egamasa/egamasa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
