@@ -25,7 +25,6 @@ https://orangeliner.net
 ### 🌱 I’m currently learning
 - Languages
   - Ruby
-  - PHP
   - Python
   - Go
 - Cloud
