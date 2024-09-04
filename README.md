@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 👋 Hi there
 
-- 💻 I'm a backend web engineer.
+- 💻 I'm a web engineer.
 - 🌱 I'm currently learning Golang and AWS.
 - 🌏 Website - [orangeliner.net](https://orangeliner.net/)
 - 📝 Blog - [orangeliner.net BLOG](https://blog.orangeliner.net/)
