@@ -40,3 +40,5 @@ Here are some ideas to get you started:
   - 昭和バス からつ号・いまり号の福岡エリア発車時刻をカウントダウンするシンプルなWebアプリ
 - [通信の最適化チェッカー](http://optimize.orangeliner.net)
   - モバイル通信回線での画像データ非可逆圧縮の有無をチェック
+- [蓮ノ空ダッシュボード](https://hasu.orangeliner.net/)
+  - Link！Like！ラブライブ！／蓮ノ空女学院スクールアイドルクラブの新着コンテンツを一覧で確認
